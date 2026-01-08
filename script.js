@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
     let allVehicles = [];
 
     // Load Data
-    fetch('vehicles.json')
+    fetch('vehicles_gold.json')
         .then(response => response.json())
         .then(data => {
             allVehicles = data;
@@ -30,8 +30,9 @@ document.addEventListener('DOMContentLoaded', () => {
             card.className = 'card';
 
             // Format price
-            let displayPrice = vehicle.price;
-            if (!displayPrice.includes('DT')) displayPrice += ' DT';
+            let displayPrice = vehicle.price_tnd
+                ? vehicle.price_tnd.toLocaleString() + ' DT'
+                : (vehicle.raw_price || 'N/A');
 
             // Check if it's a "luxury" car (simplified logic for demo)
             const isLuxury = ["audi", "mercedes", "jeep", "bmw"].some(brand =>
@@ -41,7 +42,7 @@ document.addEventListener('DOMContentLoaded', () => {
             card.innerHTML = `
                 <div class="image-container">
                     <img src="${vehicle.image || 'https://via.placeholder.com/400x300?text=No+Image'}" alt="${vehicle.title}" loading="lazy">
-                    ${vehicle.year !== 'N/A' ? `<span class="year-badge">${vehicle.year}</span>` : ''}
+                    ${vehicle.year ? `<span class="year-badge">${vehicle.year}</span>` : ''}
                 </div>
                 <div class="card-content">
                     <h3 class="card-title">${vehicle.title}</h3>
@@ -63,8 +64,8 @@ document.addEventListener('DOMContentLoaded', () => {
         const term = e.target.value.toLowerCase();
         const filtered = allVehicles.filter(v =>
             v.title.toLowerCase().includes(term) ||
-            v.year.includes(term) ||
-            v.price.includes(term)
+            (v.year && v.year.toString().includes(term)) ||
+            (v.price_tnd && v.price_tnd.toString().includes(term))
         );
         renderVehicles(filtered);
     });
@@ -82,9 +83,9 @@ document.addEventListener('DOMContentLoaded', () => {
             if (filter === 'all') {
                 filtered = allVehicles;
             } else if (filter === '2023') {
-                filtered = allVehicles.filter(v => v.year === '2023');
+                filtered = allVehicles.filter(v => v.year === 2023);
             } else if (filter === '2019') {
-                filtered = allVehicles.filter(v => parseInt(v.year) >= 2019);
+                filtered = allVehicles.filter(v => v.year && v.year >= 2019);
             } else if (filter === 'luxury') {
                 filtered = allVehicles.filter(v =>
                     ["audi", "mercedes", "jeep", "bmw"].some(brand =>

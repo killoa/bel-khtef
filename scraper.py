@@ -5,7 +5,7 @@ import re
 import time
 
 def scrape_tayara_vehicles(pages=1):
-    base_url = "https://www.tayara.tn/sc/v%C3%A9hicules/voitures"
+    base_url = "https://www.tayara.tn/listing/c/v%C3%A9hicules/voitures/"
     vehicles = []
     
     headers = {
@@ -58,7 +58,7 @@ def scrape_tayara_vehicles(pages=1):
     return vehicles
 
 if __name__ == "__main__":
-    data = scrape_tayara_vehicles(pages=3)
+    data = scrape_tayara_vehicles(pages=60)
     with open('vehicles.json', 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
     print(f"Scraped {len(data)} vehicles and saved to vehicles.json")
