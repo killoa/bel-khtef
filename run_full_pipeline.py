@@ -65,6 +65,9 @@ def run_gold():
     
     # Gold Logic
     df['published_at'] = datetime.now().isoformat()
+
+    # Filter out 0 or Null prices
+    df = df[df['price_tnd'] > 0]
     
     # Save Gold Parquet
     os.makedirs(GOLD_DIR, exist_ok=True)

@@ -53,6 +53,9 @@ def gold_pipeline():
         # Gold Logic: Add metadata or specific formatting if needed
         # For now, just a pass-through plus metadata
         df['published_at'] = datetime.now().isoformat()
+
+        # Filter out 0 or Null prices
+        df = df[df['price_tnd'] > 0]
         
         # Save Gold Parquet
         os.makedirs(GOLD_DIR, exist_ok=True)

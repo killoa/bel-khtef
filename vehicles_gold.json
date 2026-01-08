@@ -10,11 +10,11 @@
         "missing_fields":[
 
         ],
-        "scraped_at":"2026-01-08T12:51:47.688364",
+        "scraped_at":"2026-01-08T15:13:01.727872",
         "source":"tayara",
         "raw_price":"2155",
         "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
+        "published_at":"2026-01-08T15:13:01.771625"
     },
     {
         "title":"OPEL COMBO K9",
@@ -27,11 +27,11 @@
         "missing_fields":[
 
         ],
-        "scraped_at":"2026-01-08T12:51:47.688376",
+        "scraped_at":"2026-01-08T15:13:01.727886",
         "source":"tayara",
         "raw_price":"41",
         "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
+        "published_at":"2026-01-08T15:13:01.771625"
     },
     {
         "title":"kia Rio Année 2019 Toutes options",
@@ -44,11 +44,11 @@
         "missing_fields":[
 
         ],
-        "scraped_at":"2026-01-08T12:51:47.688381",
+        "scraped_at":"2026-01-08T15:13:01.727891",
         "source":"tayara",
         "raw_price":"44000",
         "raw_year":"2019",
-        "published_at":"2026-01-08T12:51:47.728431"
+        "published_at":"2026-01-08T15:13:01.771625"
     },
     {
         "title":"kia rio",
@@ -61,11 +61,11 @@
         "missing_fields":[
 
         ],
-        "scraped_at":"2026-01-08T12:51:47.688384",
+        "scraped_at":"2026-01-08T15:13:01.727894",
         "source":"tayara",
         "raw_price":"30",
         "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
+        "published_at":"2026-01-08T15:13:01.771625"
     },
     {
         "title":"Cause depart à l'etanger , medecin vend  une excellente CLA",
@@ -78,11 +78,11 @@
         "missing_fields":[
 
         ],
-        "scraped_at":"2026-01-08T12:51:47.688387",
+        "scraped_at":"2026-01-08T15:13:01.727897",
         "source":"tayara",
         "raw_price":"120",
         "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
+        "published_at":"2026-01-08T15:13:01.771625"
     },
     {
         "title":"Audi A3 sline 2012 1.6",
@@ -95,11 +95,334 @@
         "missing_fields":[
 
         ],
-        "scraped_at":"2026-01-08T12:51:47.688390",
+        "scraped_at":"2026-01-08T15:13:01.727900",
         "source":"tayara",
         "raw_price":"42000",
         "raw_year":"2012",
-        "published_at":"2026-01-08T12:51:47.728431"
+        "published_at":"2026-01-08T15:13:01.771625"
+    },
+    {
+        "title":"A vendre une voiture FiatUno",
+        "price_tnd":11500.0,
+        "year":null,
+        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=2e\/2e753009-e1b8-4076-958c-8942a1e5fc9d&w=300",
+        "link":"\/item\/voitures\/tunis\/tunis\/a-vendre-une-voiture-fiatuno\/695fba3bcd04d08be75761b6\/",
+        "is_price_outlier":false,
+        "is_year_invalid":false,
+        "missing_fields":[
+
+        ],
+        "scraped_at":"2026-01-08T15:13:01.727903",
+        "source":"tayara",
+        "raw_price":"11500",
+        "raw_year":"N\/A",
+        "published_at":"2026-01-08T15:13:01.771625"
+    },
+    {
+        "title":"Peugeot 308",
+        "price_tnd":36500.0,
+        "year":null,
+        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=77\/77b5b1eb-dad3-4db2-b66f-f3517a326ca7&w=300",
+        "link":"\/item\/voitures\/tunis\/la-marsa\/peugeot-308\/695fb9be8914daae51a7d93d\/",
+        "is_price_outlier":false,
+        "is_year_invalid":false,
+        "missing_fields":[
+
+        ],
+        "scraped_at":"2026-01-08T15:13:01.727905",
+        "source":"tayara",
+        "raw_price":"36500",
+        "raw_year":"N\/A",
+        "published_at":"2026-01-08T15:13:01.771625"
+    },
+    {
+        "title":"A vendre Peugeot 309",
+        "price_tnd":4500.0,
+        "year":null,
+        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=9f\/9f88ed6b-b456-4e17-a7c1-5349aaae18c6&w=300",
+        "link":"\/item\/voitures\/nabeul\/grombalia\/a-vendre-peugeot-309\/695fb91ecd04d08be7576154\/",
+        "is_price_outlier":false,
+        "is_year_invalid":false,
+        "missing_fields":[
+
+        ],
+        "scraped_at":"2026-01-08T15:13:01.727907",
+        "source":"tayara",
+        "raw_price":"4500",
+        "raw_year":"N\/A",
+        "published_at":"2026-01-08T15:13:01.771625"
+    },
+    {
+        "title":"Suzuki Celerio Gris – Août 2018 – Première main - 78000 km",
+        "price_tnd":27200.0,
+        "year":2018.0,
+        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=43\/4333afb8-60e4-4023-901b-d683c083c9eb&w=300",
+        "link":"\/item\/voitures\/ben-arous\/fouchana\/suzuki-celerio-gris-aot-2018-premire-main-78000-km\/695fb6b8cd04d08be7576030\/",
+        "is_price_outlier":false,
+        "is_year_invalid":false,
+        "missing_fields":[
+
+        ],
+        "scraped_at":"2026-01-08T15:13:01.727910",
+        "source":"tayara",
+        "raw_price":"27200",
+        "raw_year":"2018",
+        "published_at":"2026-01-08T15:13:01.771625"
+    },
+    {
+        "title":"Toyota 37milles km 2023",
+        "price_tnd":35800.0,
+        "year":2023.0,
+        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=59\/59726ace-f9a5-4559-a9b6-0f952c044e22&w=300",
+        "link":"\/item\/voitures\/tunis\/tunis\/toyota-37milles-km-2023\/695fb47aa5f53ffb7c915aba\/",
+        "is_price_outlier":false,
+        "is_year_invalid":false,
+        "missing_fields":[
+
+        ],
+        "scraped_at":"2026-01-08T15:13:01.727916",
+        "source":"tayara",
+        "raw_price":"35800",
+        "raw_year":"2023",
+        "published_at":"2026-01-08T15:13:01.771625"
+    },
+    {
+        "title":"Hyundai Tucson High Grade",
+        "price_tnd":100000.0,
+        "year":null,
+        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=eb\/eb4387ad-d415-4887-abff-968c3fe983da&w=300",
+        "link":"\/item\/voitures\/tunis\/tunis\/hyundai-tucson-high-grade\/69401aa9cd04d08be74b5149\/",
+        "is_price_outlier":false,
+        "is_year_invalid":false,
+        "missing_fields":[
+
+        ],
+        "scraped_at":"2026-01-08T15:13:01.727924",
+        "source":"tayara",
+        "raw_price":"100000",
+        "raw_year":"N\/A",
+        "published_at":"2026-01-08T15:13:01.771625"
+    },
+    {
+        "title":"grande Punto Evo",
+        "price_tnd":25500.0,
+        "year":null,
+        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=f9\/f9432460-0110-45e2-8018-96c191b6c8b7&w=300",
+        "link":"\/item\/voitures\/ben-arous\/ezzahra\/grande-punto-evo\/695fb01dcd04d08be7575d01\/",
+        "is_price_outlier":false,
+        "is_year_invalid":false,
+        "missing_fields":[
+
+        ],
+        "scraped_at":"2026-01-08T15:13:01.727929",
+        "source":"tayara",
+        "raw_price":"25500",
+        "raw_year":"N\/A",
+        "published_at":"2026-01-08T15:13:01.771625"
+    },
+    {
+        "title":"Bmw f10 520d fin 2015 bva toit",
+        "price_tnd":78500.0,
+        "year":2015.0,
+        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=77\/77246796-9655-43cc-a3f5-e20895ed770e&w=300",
+        "link":"\/item\/voitures\/la-manouba\/la-manouba\/bmw-f10-520d-fin-2015-bva-toit\/695fb006a5f53ffb7c91588b\/",
+        "is_price_outlier":false,
+        "is_year_invalid":false,
+        "missing_fields":[
+
+        ],
+        "scraped_at":"2026-01-08T15:13:01.727935",
+        "source":"tayara",
+        "raw_price":"78500",
+        "raw_year":"2015",
+        "published_at":"2026-01-08T15:13:01.771625"
+    },
+    {
+        "title":"Bmw f30 316d importé 2016",
+        "price_tnd":49500.0,
+        "year":2016.0,
+        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=a5\/a559f7ca-b4d9-44f1-bbf5-4d9e52c36978&w=300",
+        "link":"\/item\/voitures\/la-manouba\/la-manouba\/bmw-f30-316d-import-2016\/695faffa8914daae51a7d465\/",
+        "is_price_outlier":false,
+        "is_year_invalid":false,
+        "missing_fields":[
+
+        ],
+        "scraped_at":"2026-01-08T15:13:01.727938",
+        "source":"tayara",
+        "raw_price":"49500",
+        "raw_year":"2016",
+        "published_at":"2026-01-08T15:13:01.771625"
+    },
+    {
+        "title":"TIGUAN TDI 2.0 R-LINE",
+        "price_tnd":110000.0,
+        "year":null,
+        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=b7\/b70ff8c8-e2d9-4903-b5ed-9739e40170cf&w=300",
+        "link":"\/item\/voitures\/tunis\/tunis\/tiguan-tdi-20-rline\/694d63ab8914daae51a166fc\/",
+        "is_price_outlier":false,
+        "is_year_invalid":false,
+        "missing_fields":[
+
+        ],
+        "scraped_at":"2026-01-08T15:13:01.727942",
+        "source":"tayara",
+        "raw_price":"110",
+        "raw_year":"N\/A",
+        "published_at":"2026-01-08T15:13:01.771625"
+    },
+    {
+        "title":"Kia Picanto Populaire",
+        "price_tnd":39000.0,
+        "year":null,
+        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=5d\/5d76fde2-aab3-4e07-9137-a4bc78455190&w=300",
+        "link":"\/item\/voitures\/bizerte\/tinja\/kia-picanto-populaire\/695faf17cd04d08be7575c92\/",
+        "is_price_outlier":false,
+        "is_year_invalid":false,
+        "missing_fields":[
+
+        ],
+        "scraped_at":"2026-01-08T15:13:01.727945",
+        "source":"tayara",
+        "raw_price":"39",
+        "raw_year":"N\/A",
+        "published_at":"2026-01-08T15:13:01.771625"
+    },
+    {
+        "title":"E200 CDI 2012 bva Toit",
+        "price_tnd":67000.0,
+        "year":2012.0,
+        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=64\/647e74cb-d728-4295-8afb-acd4f1ce4d38&w=300",
+        "link":"\/item\/voitures\/la-manouba\/la-manouba\/e200-cdi-2012-bva-toit\/695faf0ecd04d08be7575c8c\/",
+        "is_price_outlier":false,
+        "is_year_invalid":false,
+        "missing_fields":[
+
+        ],
+        "scraped_at":"2026-01-08T15:13:01.727947",
+        "source":"tayara",
+        "raw_price":"67000",
+        "raw_year":"2012",
+        "published_at":"2026-01-08T15:13:01.771625"
+    },
+    {
+        "title":"Q3 2017 Sline bva+toit panoramique",
+        "price_tnd":79000.0,
+        "year":2017.0,
+        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=8a\/8adb5a23-6c22-4cc2-ab07-b72a94e6060b&w=300",
+        "link":"\/item\/voitures\/tunis\/tunis\/q3-2017-sline-bvatoit-panoramique\/695faef28914daae51a7d3e8\/",
+        "is_price_outlier":false,
+        "is_year_invalid":false,
+        "missing_fields":[
+
+        ],
+        "scraped_at":"2026-01-08T15:13:01.727949",
+        "source":"tayara",
+        "raw_price":"79000",
+        "raw_year":"2017",
+        "published_at":"2026-01-08T15:13:01.771625"
+    },
+    {
+        "title":"Polo 6",
+        "price_tnd":21200.0,
+        "year":null,
+        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=4a\/4aaf9f88-8c2a-4bd8-880a-7b08eabce9b2&w=300",
+        "link":"\/item\/voitures\/nabeul\/menzel-temime\/polo-6\/695fab71a5f53ffb7c915668\/",
+        "is_price_outlier":false,
+        "is_year_invalid":false,
+        "missing_fields":[
+
+        ],
+        "scraped_at":"2026-01-08T15:13:01.727956",
+        "source":"tayara",
+        "raw_price":"21200",
+        "raw_year":"N\/A",
+        "published_at":"2026-01-08T15:13:01.771625"
+    },
+    {
+        "title":"fiat grandi punto",
+        "price_tnd":22500.0,
+        "year":null,
+        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=70\/70f00716-06a5-4a94-bf9a-d3dddbab9af2&w=300",
+        "link":"\/item\/voitures\/ariana\/borj-louzir\/fiat-grandi-punto\/695faaa0a5f53ffb7c91561a\/",
+        "is_price_outlier":false,
+        "is_year_invalid":false,
+        "missing_fields":[
+
+        ],
+        "scraped_at":"2026-01-08T15:13:01.727964",
+        "source":"tayara",
+        "raw_price":"22500",
+        "raw_year":"N\/A",
+        "published_at":"2026-01-08T15:13:01.771625"
+    },
+    {
+        "title":"Hyundai i20",
+        "price_tnd":42000.0,
+        "year":null,
+        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=3e\/3eac0bc8-666d-4b3f-9617-d15e17f3c81a&w=300",
+        "link":"\/item\/voitures\/tunis\/cit-el-khadra\/hyundai-i20\/695fa5d58914daae51a7cfab\/",
+        "is_price_outlier":false,
+        "is_year_invalid":false,
+        "missing_fields":[
+
+        ],
+        "scraped_at":"2026-01-08T15:13:01.727970",
+        "source":"tayara",
+        "raw_price":"42000",
+        "raw_year":"N\/A",
+        "published_at":"2026-01-08T15:13:01.771625"
+    },
+    {
+        "title":"Toyota chr 1.2 turbo fin 2020",
+        "price_tnd":79000.0,
+        "year":2020.0,
+        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=09\/09ef8146-2052-49f9-ae2c-4a9d50da29af&w=300",
+        "link":"\/item\/voitures\/jendouba\/tabarka\/toyota-chr-12-turbo-fin-2020\/695fa218cd04d08be7575713\/",
+        "is_price_outlier":false,
+        "is_year_invalid":false,
+        "missing_fields":[
+
+        ],
+        "scraped_at":"2026-01-08T15:13:01.727977",
+        "source":"tayara",
+        "raw_price":"79",
+        "raw_year":"2020",
+        "published_at":"2026-01-08T15:13:01.771625"
+    },
+    {
+        "title":"mercedes e 220 première main cdi",
+        "price_tnd":111000.0,
+        "year":null,
+        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=09\/0953d3a0-1fe4-4692-b04f-be9df0ccae4e&w=300",
+        "link":"\/item\/voitures\/sfax\/sfax\/mercedes-e-220-premire-main-cdi\/695fa0eba5f53ffb7c9151da\/",
+        "is_price_outlier":false,
+        "is_year_invalid":false,
+        "missing_fields":[
+
+        ],
+        "scraped_at":"2026-01-08T15:13:01.727986",
+        "source":"tayara",
+        "raw_price":"111",
+        "raw_year":"N\/A",
+        "published_at":"2026-01-08T15:13:01.771625"
+    },
+    {
+        "title":"SUZUKI CELERIO PREMIÈRE MAIN EN ÉTAT NEUF BOÎTE MANUELLE",
+        "price_tnd":36500.0,
+        "year":null,
+        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=1f\/1f1d168b-a7d6-4eb2-95b1-819960fae6a6&w=300",
+        "link":"\/item\/voitures\/ariana\/ariana\/suzuki-celerio-premire-main-en-tat-neuf-bote-manuelle\/695f9bd8cd04d08be757543d\/",
+        "is_price_outlier":false,
+        "is_year_invalid":false,
+        "missing_fields":[
+
+        ],
+        "scraped_at":"2026-01-08T15:13:01.727995",
+        "source":"tayara",
+        "raw_price":"36500",
+        "raw_year":"N\/A",
+        "published_at":"2026-01-08T15:13:01.771625"
     },
     {
         "title":"PEUGEOT 301 PREMIÈRE MAIN EN EXCELLENT ÉTAT BOÎTE MANUELLE",
@@ -112,11 +435,11 @@
         "missing_fields":[
 
         ],
-        "scraped_at":"2026-01-08T12:51:47.688392",
+        "scraped_at":"2026-01-08T15:13:01.728005",
         "source":"tayara",
         "raw_price":"33000",
         "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
+        "published_at":"2026-01-08T15:13:01.771625"
     },
     {
         "title":"HYANDAI GRAND I 10 PREMIÈRE MAIN EN TRÈS BON ÉTAT BOÎTE MANUELLE",
@@ -129,28 +452,11 @@
         "missing_fields":[
 
         ],
-        "scraped_at":"2026-01-08T12:51:47.688395",
+        "scraped_at":"2026-01-08T15:13:01.728007",
         "source":"tayara",
         "raw_price":"38700",
         "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"Mégane 4 Restylé",
-        "price_tnd":null,
-        "year":null,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=45\/45a0eef1-dd66-434a-bdce-8fce54d9f3bf&w=300",
-        "link":"\/item\/voitures\/sousse\/akouda\/mgane-4-restyl\/695f99c98914daae51a7ca4f\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688398",
-        "source":"tayara",
-        "raw_price":"0",
-        "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
+        "published_at":"2026-01-08T15:13:01.771625"
     },
     {
         "title":"passat b7 ( faible kilometrage)",
@@ -163,28 +469,11 @@
         "missing_fields":[
 
         ],
-        "scraped_at":"2026-01-08T12:51:47.688401",
+        "scraped_at":"2026-01-08T15:13:01.728011",
         "source":"tayara",
         "raw_price":"40000",
         "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"Polo 8 R Line",
-        "price_tnd":null,
-        "year":null,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=a4\/a4f0f6e9-7aa3-4d93-be87-8e801fa55233&w=300",
-        "link":"\/item\/voitures\/sousse\/akouda\/polo-8-r-line\/695f99228914daae51a7ca09\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688403",
-        "source":"tayara",
-        "raw_price":"0",
-        "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
+        "published_at":"2026-01-08T15:13:01.771625"
     },
     {
         "title":"Ford Fiesta 2012",
@@ -197,11 +486,11 @@
         "missing_fields":[
 
         ],
-        "scraped_at":"2026-01-08T12:51:47.688406",
+        "scraped_at":"2026-01-08T15:13:01.728016",
         "source":"tayara",
         "raw_price":"21500",
         "raw_year":"2012",
-        "published_at":"2026-01-08T12:51:47.728431"
+        "published_at":"2026-01-08T15:13:01.771625"
     },
     {
         "title":"OPEL GRANDLAND X",
@@ -214,11 +503,11 @@
         "missing_fields":[
 
         ],
-        "scraped_at":"2026-01-08T12:51:47.688408",
+        "scraped_at":"2026-01-08T15:13:01.728018",
         "source":"tayara",
         "raw_price":"82000",
         "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
+        "published_at":"2026-01-08T15:13:01.771625"
     },
     {
         "title":"MG ZS Bva 1ére main",
@@ -231,11 +520,11 @@
         "missing_fields":[
 
         ],
-        "scraped_at":"2026-01-08T12:51:47.688410",
+        "scraped_at":"2026-01-08T15:13:01.728020",
         "source":"tayara",
         "raw_price":"55000",
         "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
+        "published_at":"2026-01-08T15:13:01.771625"
     },
     {
         "title":"Fiat 500C cabriolet",
@@ -248,11 +537,11 @@
         "missing_fields":[
 
         ],
-        "scraped_at":"2026-01-08T12:51:47.688412",
+        "scraped_at":"2026-01-08T15:13:01.728022",
         "source":"tayara",
         "raw_price":"39000",
         "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
+        "published_at":"2026-01-08T15:13:01.771625"
     },
     {
         "title":"Peugeot partner B9 HDI",
@@ -265,28 +554,11 @@
         "missing_fields":[
 
         ],
-        "scraped_at":"2026-01-08T12:51:47.688415",
+        "scraped_at":"2026-01-08T15:13:01.728025",
         "source":"tayara",
         "raw_price":"32",
         "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"Une jeep longitude",
-        "price_tnd":null,
-        "year":null,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=bb\/bba6301d-dd22-4274-a6b6-24f89dfc6b7b&w=300",
-        "link":"\/item\/voitures\/jendouba\/jendouba\/une-jeep-longitude\/695f942bcd04d08be75750d9\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688417",
-        "source":"tayara",
-        "raw_price":"0",
-        "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
+        "published_at":"2026-01-08T15:13:01.771625"
     },
     {
         "title":"Voiture très propre presque neuve",
@@ -299,11 +571,11 @@
         "missing_fields":[
 
         ],
-        "scraped_at":"2026-01-08T12:51:47.688421",
+        "scraped_at":"2026-01-08T15:13:01.728030",
         "source":"tayara",
         "raw_price":"45000",
         "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
+        "published_at":"2026-01-08T15:13:01.771625"
     },
     {
         "title":"Marcedes C220 BVA",
@@ -316,28 +588,11 @@
         "missing_fields":[
 
         ],
-        "scraped_at":"2026-01-08T12:51:47.688423",
+        "scraped_at":"2026-01-08T15:13:01.728032",
         "source":"tayara",
         "raw_price":"43",
         "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"Ds3 essence",
-        "price_tnd":null,
-        "year":null,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=e1\/e18ca4a1-a7a2-4388-866c-c6836853872a&w=300",
-        "link":"\/item\/voitures\/sousse\/sahloul\/ds3-essence\/695f9346a5f53ffb7c914c01\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688426",
-        "source":"tayara",
-        "raw_price":"0",
-        "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
+        "published_at":"2026-01-08T15:13:01.771625"
     },
     {
         "title":"Golf 7",
@@ -350,11 +605,11 @@
         "missing_fields":[
 
         ],
-        "scraped_at":"2026-01-08T12:51:47.688428",
+        "scraped_at":"2026-01-08T15:13:01.728037",
         "source":"tayara",
         "raw_price":"43000",
         "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
+        "published_at":"2026-01-08T15:13:01.771625"
     },
     {
         "title":"Caddy – 1ʳᵉ main – Excellent état",
@@ -367,11 +622,11 @@
         "missing_fields":[
 
         ],
-        "scraped_at":"2026-01-08T12:51:47.688430",
+        "scraped_at":"2026-01-08T15:13:01.728040",
         "source":"tayara",
         "raw_price":"58000",
         "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
+        "published_at":"2026-01-08T15:13:01.771625"
     },
     {
         "title":"CLA AMG 180 importee de France",
@@ -384,28 +639,11 @@
         "missing_fields":[
 
         ],
-        "scraped_at":"2026-01-08T12:51:47.688433",
+        "scraped_at":"2026-01-08T15:13:01.728042",
         "source":"tayara",
         "raw_price":"112000",
         "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"à vendre 106 phase 2 excellente état",
-        "price_tnd":null,
-        "year":null,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=07\/07eceea8-da25-4895-8795-be8e3dfcb062&w=300",
-        "link":"\/item\/voitures\/tunis\/le-bardo\/-vendre-106-phase-2-excellente-tat\/695f90518914daae51a7c639\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688435",
-        "source":"tayara",
-        "raw_price":"0",
-        "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
+        "published_at":"2026-01-08T15:13:01.771625"
     },
     {
         "title":"Berlingot 2021",
@@ -418,11 +656,11 @@
         "missing_fields":[
 
         ],
-        "scraped_at":"2026-01-08T12:51:47.688437",
+        "scraped_at":"2026-01-08T15:13:01.728047",
         "source":"tayara",
         "raw_price":"70000",
         "raw_year":"2021",
-        "published_at":"2026-01-08T12:51:47.728431"
+        "published_at":"2026-01-08T15:13:01.771625"
     },
     {
         "title":"voiture",
@@ -435,11 +673,11 @@
         "missing_fields":[
 
         ],
-        "scraped_at":"2026-01-08T12:51:47.688440",
+        "scraped_at":"2026-01-08T15:13:01.728050",
         "source":"tayara",
         "raw_price":"60",
         "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
+        "published_at":"2026-01-08T15:13:01.771625"
     },
     {
         "title":"DS3 full options",
@@ -452,11 +690,11 @@
         "missing_fields":[
 
         ],
-        "scraped_at":"2026-01-08T12:51:47.688442",
+        "scraped_at":"2026-01-08T15:13:01.728052",
         "source":"tayara",
         "raw_price":"30000",
         "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
+        "published_at":"2026-01-08T15:13:01.771625"
     },
     {
         "title":"Peugeot 301",
@@ -469,96 +707,11 @@
         "missing_fields":[
 
         ],
-        "scraped_at":"2026-01-08T12:51:47.688445",
+        "scraped_at":"2026-01-08T15:13:01.728054",
         "source":"tayara",
         "raw_price":"26500",
         "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"mercedes classe s 330",
-        "price_tnd":null,
-        "year":null,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=89\/89e4917b-0b9c-4a8f-a1c7-0cf9f3cd5b7d&w=300",
-        "link":"\/item\/voitures\/tunis\/tunis\/mercedes-classe-s-330\/695f8c0d8914daae51a7c460\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688447",
-        "source":"tayara",
-        "raw_price":"0",
-        "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"Hyundai SUV Excellent état",
-        "price_tnd":null,
-        "year":null,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=a8\/a81ee5bf-7820-4267-a84f-c9097bbfba24&w=300",
-        "link":"\/item\/voitures\/ben-arous\/fouchana\/hyundai-suv-excellent-tat\/695f8bf0cd04d08be7574d3d\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688449",
-        "source":"tayara",
-        "raw_price":"0",
-        "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"CITROËN BERLINGOT K9 Premiere main. 2023",
-        "price_tnd":null,
-        "year":2023.0,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=02\/02196279-f1e0-4469-a67c-5605f7a6f63f&w=300",
-        "link":"\/item\/voitures\/sfax\/route-tunis\/citron-berlingot-k9-premiere-main-2023\/695f8b1c8914daae51a7c3ec\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688452",
-        "source":"tayara",
-        "raw_price":"0",
-        "raw_year":"2023",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"très belle voiture premier Main ✋",
-        "price_tnd":null,
-        "year":null,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=d3\/d3818f61-f163-4d3b-a111-b58891d01a94&w=300",
-        "link":"\/item\/voitures\/sousse\/sidi-bou-ali\/trs-belle-voiture-premier-main-\/695f8b028914daae51a7c3d2\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688454",
-        "source":"tayara",
-        "raw_price":"0",
-        "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"belle voiture",
-        "price_tnd":null,
-        "year":null,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=25\/258e8cb3-a90b-4e0e-8b6d-a89adeabcb40&w=300",
-        "link":"\/item\/voitures\/nabeul\/klibia\/belle-voiture\/695f89eacd04d08be7574c20\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688456",
-        "source":"tayara",
-        "raw_price":"0",
-        "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
+        "published_at":"2026-01-08T15:13:01.771625"
     },
     {
         "title":"tél 22214299",
@@ -571,11 +724,11 @@
         "missing_fields":[
 
         ],
-        "scraped_at":"2026-01-08T12:51:47.688458",
+        "scraped_at":"2026-01-08T15:13:01.728067",
         "source":"tayara",
         "raw_price":"23800",
         "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
+        "published_at":"2026-01-08T15:13:01.771625"
     },
     {
         "title":"Avandre berlingo 5 place mazout",
@@ -588,45 +741,11 @@
         "missing_fields":[
 
         ],
-        "scraped_at":"2026-01-08T12:51:47.688460",
+        "scraped_at":"2026-01-08T15:13:01.728069",
         "source":"tayara",
         "raw_price":"25500",
         "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"208 TOUTE  OPTION  MODEL 2023",
-        "price_tnd":null,
-        "year":2023.0,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=f3\/f3a3b52b-0cf7-42eb-be5b-9c844c669996&w=300",
-        "link":"\/item\/voitures\/sousse\/sousse\/208-toute-option-model-2023\/695f8839cd04d08be7574b45\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688463",
-        "source":"tayara",
-        "raw_price":"0",
-        "raw_year":"2023",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"Peugeot tout option première main d'origine",
-        "price_tnd":null,
-        "year":null,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=5c\/5cd76fae-6dac-4cb8-82be-dcbddd57610b&w=300",
-        "link":"\/item\/voitures\/ariana\/cit-ennasr-2\/peugeot-tout-option-premire-main-dorigine\/695f88108914daae51a7c226\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688465",
-        "source":"tayara",
-        "raw_price":"0",
-        "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
+        "published_at":"2026-01-08T15:13:01.771625"
     },
     {
         "title":"hyundai grand i10",
@@ -639,28 +758,28 @@
         "missing_fields":[
 
         ],
-        "scraped_at":"2026-01-08T12:51:47.688468",
+        "scraped_at":"2026-01-08T15:13:01.728078",
         "source":"tayara",
         "raw_price":"36",
         "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
+        "published_at":"2026-01-08T15:13:01.771625"
     },
     {
-        "title":"Renault Express",
+        "title":"Peugeot expert",
         "price_tnd":15500.0,
         "year":null,
         "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=84\/845af707-01e0-483c-89c7-6854bf373e20&w=300",
-        "link":"\/item\/voitures\/tunis\/autres-villes\/renault-express\/695f86ca8914daae51a7c18f\/",
+        "link":"\/item\/voitures\/tunis\/tunis\/peugeot-expert\/695f86ca8914daae51a7c18f\/",
         "is_price_outlier":false,
         "is_year_invalid":false,
         "missing_fields":[
 
         ],
-        "scraped_at":"2026-01-08T12:51:47.688470",
+        "scraped_at":"2026-01-08T15:13:01.728080",
         "source":"tayara",
         "raw_price":"15500",
         "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
+        "published_at":"2026-01-08T15:13:01.771625"
     },
     {
         "title":"a vendre kia Sportage toute option 52 000",
@@ -673,11 +792,11 @@
         "missing_fields":[
 
         ],
-        "scraped_at":"2026-01-08T12:51:47.688473",
+        "scraped_at":"2026-01-08T15:13:01.728082",
         "source":"tayara",
         "raw_price":"52000",
         "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
+        "published_at":"2026-01-08T15:13:01.771625"
     },
     {
         "title":"CLA 250e",
@@ -690,28 +809,11 @@
         "missing_fields":[
 
         ],
-        "scraped_at":"2026-01-08T12:51:47.688475",
+        "scraped_at":"2026-01-08T15:13:01.728084",
         "source":"tayara",
         "raw_price":"165",
         "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"Volkswagen caddy prestige",
-        "price_tnd":null,
-        "year":null,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=75\/75e4d11d-62c2-425e-9bc7-3eb88a0585ca&w=300",
-        "link":"\/item\/voitures\/ariana\/ghazela\/volkswagen-caddy-prestige\/695f85498914daae51a7c0cc\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688477",
-        "source":"tayara",
-        "raw_price":"0",
-        "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
+        "published_at":"2026-01-08T15:13:01.771625"
     },
     {
         "title":"MG5 Confort Plus 1ère main",
@@ -724,28 +826,11 @@
         "missing_fields":[
 
         ],
-        "scraped_at":"2026-01-08T12:51:47.688479",
+        "scraped_at":"2026-01-08T15:13:01.728088",
         "source":"tayara",
         "raw_price":"55900",
         "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"KIA RIO COUPER FIN 2020",
-        "price_tnd":null,
-        "year":2020.0,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=0c\/0cfe0e25-abe4-4ba0-b584-54f030adcb3e&w=300",
-        "link":"\/item\/voitures\/sousse\/khzema\/kia-rio-couper-fin-2020\/695f82d5a5f53ffb7c91441e\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688481",
-        "source":"tayara",
-        "raw_price":"0",
-        "raw_year":"2020",
-        "published_at":"2026-01-08T12:51:47.728431"
+        "published_at":"2026-01-08T15:13:01.771625"
     },
     {
         "title":"Golf 8 A vendre",
@@ -758,11 +843,11 @@
         "missing_fields":[
 
         ],
-        "scraped_at":"2026-01-08T12:51:47.688484",
+        "scraped_at":"2026-01-08T15:13:01.728093",
         "source":"tayara",
         "raw_price":"78800",
         "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
+        "published_at":"2026-01-08T15:13:01.771625"
     },
     {
         "title":"📌 BMW 318i (f30) Pack M📌",
@@ -775,11 +860,11 @@
         "missing_fields":[
 
         ],
-        "scraped_at":"2026-01-08T12:51:47.688486",
+        "scraped_at":"2026-01-08T15:13:01.728096",
         "source":"tayara",
         "raw_price":"123",
         "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
+        "published_at":"2026-01-08T15:13:01.771625"
     },
     {
         "title":"BMW F30 pack M",
@@ -792,11 +877,11 @@
         "missing_fields":[
 
         ],
-        "scraped_at":"2026-01-08T12:51:47.688488",
+        "scraped_at":"2026-01-08T15:13:01.728098",
         "source":"tayara",
         "raw_price":"123",
         "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
+        "published_at":"2026-01-08T15:13:01.771625"
     },
     {
         "title":"HYANDAI GRAND I 10 PREMIÈRE MAIN EN TRÈS BON ÉTAT BOÎTE MANUELLE",
@@ -809,11 +894,11 @@
         "missing_fields":[
 
         ],
-        "scraped_at":"2026-01-08T12:51:47.688491",
+        "scraped_at":"2026-01-08T15:13:01.728100",
         "source":"tayara",
         "raw_price":"38700",
         "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
+        "published_at":"2026-01-08T15:13:01.771625"
     },
     {
         "title":"📌 BMW 318i (f30) Pck M",
@@ -826,28 +911,11 @@
         "missing_fields":[
 
         ],
-        "scraped_at":"2026-01-08T12:51:47.688493",
+        "scraped_at":"2026-01-08T15:13:01.728102",
         "source":"tayara",
         "raw_price":"123",
         "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"KIA RIO COUPÉ PREMIÈRE MAIN EN TRÈS BON ÉTAT BOÎTE MANUELLE",
-        "price_tnd":null,
-        "year":null,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=36\/36d1a3af-90b6-4cb9-a5d8-20bccae0debe&w=300",
-        "link":"\/item\/voitures\/bizerte\/zarzouna\/kia-rio-coup-premire-main-en-trs-bon-tat-bote-manuelle\/695f81cacd04d08be75747eb\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688495",
-        "source":"tayara",
-        "raw_price":"0",
-        "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
+        "published_at":"2026-01-08T15:13:01.771625"
     },
     {
         "title":"hyundai i 20",
@@ -860,28 +928,11 @@
         "missing_fields":[
 
         ],
-        "scraped_at":"2026-01-08T12:51:47.688497",
+        "scraped_at":"2026-01-08T15:13:01.728107",
         "source":"tayara",
         "raw_price":"48800",
         "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"FEUX GOLF 7 NEUF ORIGINE VW 52259213",
-        "price_tnd":null,
-        "year":null,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=5f\/5fe8f2cb-d787-44e1-9cd0-ab3544343de8&w=300",
-        "link":"\/item\/voitures\/sousse\/sousse\/feux-golf-7-neuf-origine-vw-52259213\/695f81a9a5f53ffb7c914363\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688499",
-        "source":"tayara",
-        "raw_price":"0",
-        "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
+        "published_at":"2026-01-08T15:13:01.771625"
     },
     {
         "title":"hyundai i 20",
@@ -894,11 +945,11 @@
         "missing_fields":[
 
         ],
-        "scraped_at":"2026-01-08T12:51:47.688502",
+        "scraped_at":"2026-01-08T15:13:01.728111",
         "source":"tayara",
         "raw_price":"48800",
         "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
+        "published_at":"2026-01-08T15:13:01.771625"
     },
     {
         "title":"Voiture b9 à vendre",
@@ -911,724 +962,10 @@
         "missing_fields":[
 
         ],
-        "scraped_at":"2026-01-08T12:51:47.688504",
+        "scraped_at":"2026-01-08T15:13:01.728113",
         "source":"tayara",
         "raw_price":"42",
         "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"GOLF 7 LOUNGE EDITION ALLEMANDE ETAT COMME NEUF",
-        "price_tnd":null,
-        "year":null,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=f3\/f3a5066e-6dd1-4736-bcee-efa747e66d56&w=300",
-        "link":"\/item\/voitures\/sousse\/hergla\/golf-7-lounge-edition-allemande-etat-comme-neuf\/695f80fbcd04d08be7574785\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688506",
-        "source":"tayara",
-        "raw_price":"0",
-        "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"Suzuki Celerio",
-        "price_tnd":32000.0,
-        "year":null,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=ca\/ca7b335b-3438-470f-8e2d-bf99651df812&w=300",
-        "link":"\/item\/voitures\/ariana\/borj-louzir\/suzuki-celerio\/695f803ea5f53ffb7c9142a6\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688508",
-        "source":"tayara",
-        "raw_price":"32000",
-        "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"toyota Rav4 hybride",
-        "price_tnd":1234.0,
-        "year":null,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=93\/93bc6b77-0b05-4b7d-97f8-19b9f2b6f17e&w=100&w=300",
-        "link":"\/item\/voitures\/sousse\/sousse-jawhara\/toyota-rav4-hybride\/68f66a3ed0d95991e1013db7\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688510",
-        "source":"tayara",
-        "raw_price":"1234",
-        "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"TOYOTA AGYA",
-        "price_tnd":33750.0,
-        "year":null,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=e7\/e7742dd9-1664-4ea8-be26-1fda3de5b223&w=300",
-        "link":"\/item\/voitures\/tunis\/lac-1\/toyota-agya\/695f7fb88914daae51a7bdf4\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688514",
-        "source":"tayara",
-        "raw_price":"33750",
-        "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"Caddy prestige première main Année fin 2016.\n29 182 478",
-        "price_tnd":29182478.0,
-        "year":2016.0,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=ea\/ea10edb8-5944-4218-a47a-354d52fb1673&w=300",
-        "link":"\/item\/voitures\/bizerte\/sejenane\/caddy-prestige-premire-main-anne-fin-201629-182-478\/695f7f8ba5f53ffb7c914259\/",
-        "is_price_outlier":true,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688517",
-        "source":"tayara",
-        "raw_price":"29182478",
-        "raw_year":"2016",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"Opel Astra",
-        "price_tnd":16500.0,
-        "year":null,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=cb\/cbe87c4a-f797-472a-be57-eacdd8e783b5&w=300",
-        "link":"\/item\/voitures\/ben-arous\/el-mourouj\/opel-astra\/695f7f5fcd04d08be75746d0\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688519",
-        "source":"tayara",
-        "raw_price":"16500",
-        "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"Kia Picanto à vendre",
-        "price_tnd":null,
-        "year":null,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=ab\/abbe798b-f3e0-4231-ad10-88eb62ffa7c4&w=300",
-        "link":"\/item\/voitures\/sfax\/sfax\/kia-picanto-vendre\/695f7f5ecd04d08be75746cf\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688521",
-        "source":"tayara",
-        "raw_price":"0",
-        "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"Polo 7 A Vendre",
-        "price_tnd":null,
-        "year":null,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=b8\/b88eeeba-a18d-44d1-96de-34d6a1c22a76&w=300",
-        "link":"\/item\/voitures\/ariana\/ghazela\/polo-7-a-vendre\/695f7f528914daae51a7bdc5\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688523",
-        "source":"tayara",
-        "raw_price":"0",
-        "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"Mercedes A180",
-        "price_tnd":55000.0,
-        "year":null,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=a8\/a8ec2d5b-4678-4033-9e77-bef45d017273&w=300",
-        "link":"\/item\/voitures\/ariana\/cit-ennasr-2\/mercedes-a180\/695f7f4f8914daae51a7bdc4\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688525",
-        "source":"tayara",
-        "raw_price":"55000",
-        "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"Kia Rio",
-        "price_tnd":32500.0,
-        "year":null,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=de\/dea1c40e-b85a-48d8-9be9-5284bad6bd06&w=300",
-        "link":"\/item\/voitures\/tunis\/tunis\/kia-rio\/695f7d8dcd04d08be75745f7\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688527",
-        "source":"tayara",
-        "raw_price":"32500",
-        "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"Kia Rio",
-        "price_tnd":32500.0,
-        "year":null,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=de\/dea1c40e-b85a-48d8-9be9-5284bad6bd06&w=300",
-        "link":"\/item\/voitures\/tunis\/tunis\/kia-rio\/695f7d808914daae51a7bcf7\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688529",
-        "source":"tayara",
-        "raw_price":"32500",
-        "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"Fiat 500c cabriolet",
-        "price_tnd":29000.0,
-        "year":null,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=84\/844c9aa1-6588-411a-8d58-086cd5193bb1&w=300",
-        "link":"\/item\/voitures\/tunis\/ain-zaghouen\/fiat-500c-cabriolet\/695f7ce6cd04d08be757459d\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688531",
-        "source":"tayara",
-        "raw_price":"29000",
-        "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"KIA PICANTO GT LINE PREMIÈRE MAIN TRÈS PROPRE BOÎTE MANUELLE",
-        "price_tnd":null,
-        "year":null,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=81\/8110b4ad-405a-493e-8083-b197a29edb24&w=300",
-        "link":"\/item\/voitures\/bizerte\/zarzouna\/kia-picanto-gt-line-premire-main-trs-propre-bote-manuelle\/695f7ce0a5f53ffb7c914103\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688534",
-        "source":"tayara",
-        "raw_price":"0",
-        "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"SUZUKI CELERIO PREMIÈRE MAIN EN ÉTAT NEUF BOÎTE MANUELLE",
-        "price_tnd":36500.0,
-        "year":null,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=1f\/1f1d168b-a7d6-4eb2-95b1-819960fae6a6&w=300",
-        "link":"\/item\/voitures\/ariana\/ariana\/suzuki-celerio-premire-main-en-tat-neuf-bote-manuelle\/695f7ccacd04d08be757458c\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688537",
-        "source":"tayara",
-        "raw_price":"36500",
-        "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"kia rio 80km série 189 تسجيل أول",
-        "price_tnd":null,
-        "year":null,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=c1\/c17c6960-a598-4975-be0e-cbc6910b2046&w=300",
-        "link":"\/item\/voitures\/ben-arous\/autres-villes\/kia-rio-80km-srie-189-\/695f7c56cd04d08be7574551\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688539",
-        "source":"tayara",
-        "raw_price":"0",
-        "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"Gelly GC6 Première main",
-        "price_tnd":28000.0,
-        "year":null,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=53\/538e041f-4098-435a-aa86-996bc4f29c32&w=300",
-        "link":"\/item\/voitures\/gabs\/gabs-ouest\/gelly-gc6-premire-main\/695f7c03cd04d08be7574539\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688541",
-        "source":"tayara",
-        "raw_price":"28",
-        "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"🔥GOLF 7 Smart-Line -1.2 Essence 🔥",
-        "price_tnd":null,
-        "year":null,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=1f\/1ff4a20f-f3d9-4be7-9f54-fa65fb9969f5&w=300",
-        "link":"\/item\/voitures\/sfax\/route-tunis\/golf-7-smartline-12-essence-\/695f7afaa5f53ffb7c914023\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688544",
-        "source":"tayara",
-        "raw_price":"0",
-        "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"🔥TOYOTA AGYA 🔥",
-        "price_tnd":null,
-        "year":null,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=57\/5771e1fa-51ab-4536-baae-51786b03a288&w=300",
-        "link":"\/item\/voitures\/sfax\/route-tunis\/toyota-agya-\/695f7aeea5f53ffb7c914021\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688546",
-        "source":"tayara",
-        "raw_price":"0",
-        "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"PEUGEOT PARTNER K9 1.6 modele 2021",
-        "price_tnd":null,
-        "year":2021.0,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=10\/10185d06-1403-4cb5-b800-f159fa126635&w=300",
-        "link":"\/item\/voitures\/sfax\/route-tunis\/peugeot-partner-k9-16-modele-2021\/695f7ae6a5f53ffb7c91401e\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688549",
-        "source":"tayara",
-        "raw_price":"0",
-        "raw_year":"2021",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"hyundai Grand i10 1ere main \n(25 000 km)",
-        "price_tnd":null,
-        "year":null,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=87\/87a1cdfb-0e79-4454-b6f3-59da8c5d4582&w=300",
-        "link":"\/item\/voitures\/sfax\/route-taniour\/hyundai-grand-i10-1ere-main-25-000-km\/695f79848914daae51a7bb25\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688551",
-        "source":"tayara",
-        "raw_price":"0",
-        "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"Golf 6 1ère main importé de l'allemagne a vendre ou échange",
-        "price_tnd":null,
-        "year":null,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=c3\/c3e191c0-c556-4012-9178-c66bb911a978&w=300",
-        "link":"\/item\/voitures\/mdenine\/djerba-midoun\/golf-6-1re-main-import-de-lallemagne-a-vendre-ou-change\/695f797bcd04d08be757442a\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688553",
-        "source":"tayara",
-        "raw_price":"0",
-        "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"nissan juke 2 importée",
-        "price_tnd":67000.0,
-        "year":null,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=6e\/6e56955e-06a5-4691-98e1-1d9e92d0fd0e&w=300",
-        "link":"\/item\/voitures\/ben-arous\/hammam-chott\/nissan-juke-2-importe\/695f77db8914daae51a7ba52\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688555",
-        "source":"tayara",
-        "raw_price":"67000",
-        "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"GOLF 6 ESSENCE 1.4 Atmosphérique État Origine",
-        "price_tnd":null,
-        "year":null,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=73\/73cdb2fb-2ce3-420e-baca-e1432cbacfe6&w=300",
-        "link":"\/item\/voitures\/sfax\/route-tunis\/golf-6-essence-14-atmosphrique-tat-origine\/695f7769cd04d08be7574322\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688557",
-        "source":"tayara",
-        "raw_price":"0",
-        "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"KIA STONIC 4 cylindres 2025\/07",
-        "price_tnd":null,
-        "year":2025.0,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=d8\/d8275a36-133b-4b6e-be05-a17e3e686774&w=300",
-        "link":"\/item\/voitures\/sfax\/route-tunis\/kia-stonic-4-cylindres-202507\/695f775fa5f53ffb7c913e74\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688561",
-        "source":"tayara",
-        "raw_price":"0",
-        "raw_year":"2025",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"206 sedan",
-        "price_tnd":15500.0,
-        "year":null,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=0d\/0d1fda34-115f-4cca-bf9e-8f5dbc359f82&w=300",
-        "link":"\/item\/voitures\/ben-arous\/el-mourouj-1\/206-sedan\/695f775fa5f53ffb7c913e73\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688563",
-        "source":"tayara",
-        "raw_price":"15500",
-        "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"Vente clio 2",
-        "price_tnd":15000.0,
-        "year":null,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=f8\/f898cafd-475e-43e4-b714-dbdc29bd534b&w=300",
-        "link":"\/item\/voitures\/nabeul\/grombalia\/vente-clio-2\/695f76dba5f53ffb7c913e46\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688565",
-        "source":"tayara",
-        "raw_price":"15",
-        "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"KIA RIO 1.2 84ch IMPORTER",
-        "price_tnd":42000.0,
-        "year":null,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=60\/602764a3-6aa6-4f0b-ae5f-ef0f348aa35c&w=300",
-        "link":"\/item\/voitures\/nabeul\/menzel-temime\/kia-rio-12-84ch-importer\/695f76becd04d08be75742de\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688567",
-        "source":"tayara",
-        "raw_price":"42000",
-        "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"🚙 Hyundai Grand i10✅ full option💥🚙",
-        "price_tnd":null,
-        "year":null,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=82\/82dbe652-5e5b-46ab-9b8a-7b23967d2101&w=300",
-        "link":"\/item\/voitures\/tunis\/el-omrane\/-hyundai-grand-i10-full-option\/695f7582a5f53ffb7c913db8\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688570",
-        "source":"tayara",
-        "raw_price":"0",
-        "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"Vente voiture",
-        "price_tnd":56000.0,
-        "year":null,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=d3\/d30d844b-5f61-432a-b940-9a3795b294c2&w=300",
-        "link":"\/item\/voitures\/tunis\/el-omrane\/vente-voiture\/695f73b9a5f53ffb7c913ce6\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688572",
-        "source":"tayara",
-        "raw_price":"56",
-        "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"PEUGEOT 208 1er main ESSENCE",
-        "price_tnd":27000.0,
-        "year":null,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=42\/422c9f21-6933-4042-b782-facd586efd70&w=300",
-        "link":"\/item\/voitures\/gabs\/gabs-mdina\/peugeot-208-1er-main-essence\/695f7308a5f53ffb7c913c88\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688574",
-        "source":"tayara",
-        "raw_price":"27000",
-        "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"KIA SPORTEGE GT.LINE PRENIOME 1er main BOÎTE AUTO DIESEL \nTel 24 313 594",
-        "price_tnd":12348.0,
-        "year":null,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=4e\/4e8e53d3-c6e8-4880-8f46-dd6c8641f1f2&w=300",
-        "link":"\/item\/voitures\/gabs\/gabs-mdina\/kia-sportege-gtline-preniome-1er-main-bote-auto-diesel-tel-24-313-594\/695f72eecd04d08be757411e\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688576",
-        "source":"tayara",
-        "raw_price":"12348",
-        "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"Peugeot 207 GAMME EDITION UNIQUE série205 km100 (تسجيل اول)",
-        "price_tnd":null,
-        "year":null,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=6b\/6b499cb8-7248-457b-b5a6-2730005ba120&w=300",
-        "link":"\/item\/voitures\/ben-arous\/autres-villes\/peugeot-207-gamme-edition-unique-srie205-km100-\/695f729ccd04d08be75740ff\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688578",
-        "source":"tayara",
-        "raw_price":"0",
-        "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"Polo 3",
-        "price_tnd":10900.0,
-        "year":null,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=b2\/b211f9be-759c-4726-99d8-15212fea1abf&w=300",
-        "link":"\/item\/voitures\/ben-arous\/el-mourouj\/polo-3\/695f7294cd04d08be75740fb\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688580",
-        "source":"tayara",
-        "raw_price":"10900",
-        "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"kia Rio Boite Auto premier main",
-        "price_tnd":null,
-        "year":null,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=55\/5582ccf9-0bd9-4bf3-9511-573ef78c618e&w=300",
-        "link":"\/item\/voitures\/sfax\/route-taniour\/kia-rio-boite-auto-premier-main\/695f72128914daae51a7b7cd\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688583",
-        "source":"tayara",
-        "raw_price":"0",
-        "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"Volkswagen Passat CC 2015 – 2.0 TDI",
-        "price_tnd":58900.0,
-        "year":2015.0,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=39\/3901f461-b970-4469-a4d5-b5ed6c65db4e&w=300",
-        "link":"\/item\/voitures\/tunis\/carthage\/volkswagen-passat-cc-2015-20-tdi\/695f71fdcd04d08be75740a1\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688586",
-        "source":"tayara",
-        "raw_price":"58900",
-        "raw_year":"2015",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"Citroen C3 peinture origine \ncontacter.22.742.516",
-        "price_tnd":null,
-        "year":null,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=28\/287fcd08-c8c0-437c-8e86-0a0a7fba0891&w=300",
-        "link":"\/item\/voitures\/sfax\/route-taniour\/citroen-c3-peinture-origine-contacter22742516\/695f71e7a5f53ffb7c913c09\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688588",
-        "source":"tayara",
-        "raw_price":"0",
-        "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"BMW SÉRIE 2 Gran Coupe Sport Line",
-        "price_tnd":103000.0,
-        "year":null,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=84\/84c000d2-e832-4876-b754-ad9bc08b901d&w=300",
-        "link":"\/item\/voitures\/ben-arous\/boumhel\/bmw-srie-2-gran-coupe-sport-line\/695f71ce8914daae51a7b7ae\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688590",
-        "source":"tayara",
-        "raw_price":"103000",
-        "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"A vendre seat leon",
-        "price_tnd":58000.0,
-        "year":null,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=ab\/abbeec89-1cf7-422d-abf7-41635e7d53ef.jpg&w=100&w=300",
-        "link":"\/item\/voitures\/ben-arous\/rads\/a-vendre-seat-leon\/69206cfd145e1617cba9d755\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688592",
-        "source":"tayara",
-        "raw_price":"58000",
-        "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"😉 À vendre : Mercedes-Benz CLA 200 – Kit AMG",
-        "price_tnd":55588884.0,
-        "year":null,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=19\/19a43d79-038d-42cf-bb83-ec32a94d28db&w=300",
-        "link":"\/item\/voitures\/ben-arous\/boumhel\/-vendre-mercedesbenz-cla-200-kit-amg\/695f7176a5f53ffb7c913bd8\/",
-        "is_price_outlier":true,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688595",
-        "source":"tayara",
-        "raw_price":"55588884",
-        "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"A vendre Mini country man boîte automatique",
-        "price_tnd":81000.0,
-        "year":null,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=ab\/abbeec89-1cf7-422d-abf7-41635e7d53ef.jpg&w=100&w=300",
-        "link":"\/item\/voitures\/ben-arous\/rads\/a-vendre-mini-country-man-bote-automatique\/694d19068914daae51a13984\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688597",
-        "source":"tayara",
-        "raw_price":"81000",
-        "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"A vendre Mercedes classe c180",
-        "price_tnd":58000.0,
-        "year":null,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=ab\/abbeec89-1cf7-422d-abf7-41635e7d53ef.jpg&w=100&w=300",
-        "link":"\/item\/voitures\/ben-arous\/rads\/a-vendre-mercedes-classe-c180\/692985e4265523b710ec9584\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688599",
-        "source":"tayara",
-        "raw_price":"58000",
-        "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
-    },
-    {
-        "title":"🚦À VENDRE PEUGEOT Landtrek 4x4 Off Road",
-        "price_tnd":92000.0,
-        "year":null,
-        "image":"https:\/\/www.tayara.tn\/mediaGateway\/resize-image?img=ab\/abbeec89-1cf7-422d-abf7-41635e7d53ef.jpg&w=100&w=300",
-        "link":"\/item\/voitures\/ben-arous\/rads\/-vendre-peugeot-landtrek-4x4-off-road\/6934230ecd04d08be7465c58\/",
-        "is_price_outlier":false,
-        "is_year_invalid":false,
-        "missing_fields":[
-
-        ],
-        "scraped_at":"2026-01-08T12:51:47.688601",
-        "source":"tayara",
-        "raw_price":"92000",
-        "raw_year":"N\/A",
-        "published_at":"2026-01-08T12:51:47.728431"
+        "published_at":"2026-01-08T15:13:01.771625"
     }
 ]
