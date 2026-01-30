@@ -17,7 +17,7 @@ BRONZE_DATASET = Dataset(f"file://{BRONZE_DIR}/raw_vehicles.json")
 local_tz = pendulum.timezone("Africa/Tunis")
 
 default_args = {
-    'owner': 'Antigravity',
+    'owner': 'Ramzi',
     'depends_on_past': False,
     'retries': 2,
     'retry_delay': timedelta(minutes=5),
@@ -37,18 +37,14 @@ def bronze_pipeline():
 
     @task(outlets=[BRONZE_DATASET])
     def extract_bronze(execution_date=None):
-        """
-        Scrapes raw data from Tayara.tn and saves it as a partitioned JSON.
-        """
-        # Note: In production, ensure scraper is in PYTHONPATH
+
         from scraper import scrape_tayara_vehicles
         
         logging.info("Starting Tayara.tn scrape...")
-        # Production scrape size or parameterized
+        
         raw_data = scrape_tayara_vehicles(pages=5) 
         
-        # We save to a specific 'latest' file for the Dataset trigger to be consistent
-        # In a real lake architecture, we might append or use key-based partitions
+
         output_path = os.path.join(BRONZE_DIR, "raw_vehicles.json")
         os.makedirs(os.path.dirname(output_path), exist_ok=True)
         

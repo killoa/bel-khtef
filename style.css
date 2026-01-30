@@ -263,6 +263,20 @@ nav {
     border: 1px solid var(--primary);
 }
 
+.badge-deal {
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    background: linear-gradient(135deg, #00b894, #00cec9);
+    padding: 4px 12px;
+    border-radius: 50px;
+    font-size: 0.8rem;
+    font-weight: 700;
+    color: white;
+    box-shadow: 0 4px 10px rgba(0, 184, 148, 0.4);
+    z-index: 2;
+}
+
 .card-content {
     padding: 1.5rem;
     display: flex;

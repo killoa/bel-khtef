@@ -26,7 +26,7 @@ SILVER_DATASET = Dataset(f"file://{SILVER_DIR}/vehicles.parquet")
 local_tz = pendulum.timezone("Africa/Tunis")
 
 default_args = {
-    'owner': 'Antigravity',
+    'owner': 'Ramzi',
     'retries': 1,
     'retry_delay': timedelta(minutes=5),
 }

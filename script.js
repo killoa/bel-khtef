@@ -43,6 +43,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <div class="image-container">
                     <img src="${vehicle.image || 'https://via.placeholder.com/400x300?text=No+Image'}" alt="${vehicle.title}" loading="lazy">
                     ${vehicle.year ? `<span class="year-badge">${vehicle.year}</span>` : ''}
+                    ${vehicle.is_good_deal ? `<span class="badge-deal">🔥 Good Deal</span>` : ''}
                 </div>
                 <div class="card-content">
                     <h3 class="card-title">${vehicle.title}</h3>
@@ -92,6 +93,8 @@ document.addEventListener('DOMContentLoaded', () => {
                         v.title.toLowerCase().includes(brand)
                     )
                 );
+            } else if (filter === 'good_deals') {
+                filtered = allVehicles.filter(v => v.is_good_deal === true);
             }
 
             renderVehicles(filtered);

@@ -19,7 +19,7 @@ def run_bronze():
     from scraper import scrape_tayara_vehicles
     
     # Scrape
-    data = scrape_tayara_vehicles(pages=3) # Keep it small for test
+    data = scrape_tayara_vehicles(pages=300) # Keep it small for test
     
     # Save
     output_path = os.path.join(BRONZE_DIR, "raw_vehicles.json")
@@ -44,11 +44,11 @@ def run_silver():
     silver_data = process_dataframe(raw_data)
     df = pd.DataFrame(silver_data)
     
-    # Check Quality (Simplified)
+
     if df.empty:
         logging.warning("Silver: DataFrame is empty after transform!")
     
-    # Save Silver
+ 
     os.makedirs(SILVER_DIR, exist_ok=True)
     silver_path = os.path.join(SILVER_DIR, "vehicles.parquet")
     df.to_parquet(silver_path, index=False)
@@ -59,7 +59,7 @@ def run_silver():
 def run_gold():
     logging.info("--- Starting Gold Layer ---")
     
-    # Read Silver
+
     silver_path = os.path.join(SILVER_DIR, "vehicles.parquet")
     df = pd.read_parquet(silver_path)
     
