@@ -1,10 +1,9 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useMemo } from 'react';
 import VehicleCard from './VehicleCard';
 import axios from 'axios';
 
 export default function Dashboard() {
     const [vehicles, setVehicles] = useState([]);
-    const [filteredVehicles, setFilteredVehicles] = useState([]);
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState('');
     const [search, setSearch] = useState('');
@@ -14,7 +13,6 @@ export default function Dashboard() {
         axios.get('http://localhost:8000/api/vehicles')
             .then(res => {
                 setVehicles(res.data);
-                setFilteredVehicles(res.data);
                 setLoading(false);
             })
             .catch(err => {
@@ -24,7 +22,7 @@ export default function Dashboard() {
             });
     }, []);
 
-    useEffect(() => {
+    const filteredVehicles = useMemo(() => {
         let result = vehicles;
         
         // Search
@@ -52,7 +50,7 @@ export default function Dashboard() {
             result = result.filter(v => v.is_good_deal === true);
         }
 
-        setFilteredVehicles(result);
+        return result;
     }, [search, activeFilter, vehicles]);
 
     return (
